@@ -1,0 +1,168 @@
+[
+    {
+        "id": 1,
+        "contact_name": "Анна Симакова",
+        "phones": [
+            {
+                "type": "mobile",
+                "number": "+37494111222"
+            }
+        ],
+        "comment": "Коллега"
+    },
+    {
+        "id": 2,
+        "contact_name": "Иван Иванов",
+        "phones": [
+            {
+                "type": "home",
+                "number": "+37410555444"
+            }
+        ],
+        "comment": null
+    },
+    {
+        "id": 3,
+        "contact_name": "Мария Петрова",
+        "phones": [
+            {
+                "type": "mobile",
+                "number": "+79161234567"
+            }
+        ],
+        "comment": "Старший менеджер"
+    },
+    {
+        "id": 4,
+        "contact_name": "Анна Симакова",
+        "phones": [
+            {
+                "type": "mobile",
+                "number": "+37494111222"
+            }
+        ],
+        "comment": null
+    },
+    {
+        "contact_name": "Иван Иванов | home: +37410555444",
+        "phones": [
+            {
+                "type": "mobile",
+                "number": "123456789"
+            }
+        ],
+        "comment": null,
+        "id": 5
+    },
+    {
+        "id": 6,
+        "contact_name": "2345678шгнрепкав",
+        "phones": [
+            {
+                "type": "work",
+                "number": "3456789"
+            },
+            {
+                "type": "mobile",
+                "number": "234567"
+            }
+        ],
+        "comment": "34567шнепкав"
+    },
+    {
+        "id": 7,
+        "contact_name": "цукенгшщз",
+        "phones": [
+            {
+                "type": "work",
+                "number": "3456789"
+            },
+            {
+                "type": "work",
+                "number": "23456789"
+            },
+            {
+                "type": "work",
+                "number": "3456789"
+            }
+        ],
+        "comment": "4567"
+    },
+    {
+        "id": 9,
+        "contact_name": "Иван Иванов",
+        "phones": [
+            {
+                "type": "home",
+                "number": "+37410555444"
+            }
+        ],
+        "comment": null
+    },
+    {
+        "id": 10,
+        "contact_name": "Мария Петрова",
+        "phones": [
+            {
+                "type": "mobile",
+                "number": "+79161234567"
+            }
+        ],
+        "comment": "Старший менеджер"
+    },
+    {
+        "id": 11,
+        "contact_name": "234567",
+        "phones": [
+            {
+                "type": "work",
+                "number": "23456789"
+            }
+        ],
+        "comment": "23456789"
+    },
+    {
+        "id": 12,
+        "contact_name": "456789",
+        "phones": [
+            {
+                "type": "home",
+                "number": "23456789"
+            }
+        ],
+        "comment": "1ё234567"
+    },
+    {
+        "id": 13,
+        "contact_name": "Анна Симакова",
+        "phones": [
+            {
+                "type": "mobile",
+                "number": "+37494111222"
+            }
+        ],
+        "comment": "Коллега"
+    },
+    {
+        "id": 14,
+        "contact_name": "Иван Иванов",
+        "phones": [
+            {
+                "type": "home",
+                "number": "+37410555444"
+            }
+        ],
+        "comment": null
+    },
+    {
+        "id": 15,
+        "contact_name": "Мария Петрова",
+        "phones": [
+            {
+                "type": "mobile",
+                "number": "+79161234567"
+            }
+        ],
+        "comment": "Старший менеджер"
+    }
+]
